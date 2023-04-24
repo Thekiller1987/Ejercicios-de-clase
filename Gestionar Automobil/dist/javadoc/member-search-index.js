@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"gestionar.automobil","c":"GestionarAutomobil","l":"GestionarAutomobil()","u":"%3Cinit%3E()"},{"p":"gestionar.automobil","c":"GestionarAutomobil","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();

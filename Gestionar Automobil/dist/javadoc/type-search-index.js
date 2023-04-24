@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"gestionar.automobil","l":"Automovil"},{"p":"gestionar.automobil","l":"GestionarAutomobil"}];updateSearchResults();
