@@ -36,7 +36,7 @@ comisiónMensual += (númeroRetiros - 4) * 1000;
     
 
 super.extractoMensual();
-( saldo < 10000 );
+if( saldo < 10000 );
 activa = false;
 }
 
